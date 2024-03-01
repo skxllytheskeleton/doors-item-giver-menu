@@ -2,7 +2,7 @@ local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bl
 
 local win = SolarisLib:New({
   Name = "Doors Item Hub",
-  FolderToSave = "DoorsItemHubIG"
+  --FolderToSave = "DoorsItemHubIG"
 })
 
 local tab = win:Tab("Items")
